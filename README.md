@@ -1,6 +1,6 @@
 # my_first_ui
 
-A new Flutter project.
+Profile Ui Project.
 
 ## Getting Started
 
